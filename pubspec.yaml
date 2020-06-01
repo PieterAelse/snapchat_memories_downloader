@@ -1,0 +1,14 @@
+name: snapchat_memories_downloader
+description: A simple tool to download your memories from your Snapchat MyData
+version: 1.0.0
+homepage: http://github.com/PieterAelse/snapchat_memories_downloader
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  meta: ^1.1.8
+  dio: ^3.0.9
+
+dev_dependencies:
+  pedantic: ^1.8.0
